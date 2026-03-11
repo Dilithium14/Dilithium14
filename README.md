@@ -2,7 +2,7 @@
 <h3>About Me</h3>
 </div>
 <div align="center">
-I like video games, game dev, skateboarding, and music :)
+I like game dev and graphics programming :)
    
 "I can do all things through Christ which strengtheneth me." Phil. 4:13
 </div>
