@@ -1,5 +1,5 @@
 <div align="center">
-<h2>About Me</h2>
+<h3>About Me</h3>
 </div>
 <div align="center">
 I like video games, game dev, skateboarding, and music :)
